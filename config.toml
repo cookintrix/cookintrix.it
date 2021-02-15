@@ -1,8 +1,19 @@
 baseURL = "https://www.cookintrix.it"
 languageCode = "it"
 defaultContentLanguage = "it"
+defaultContentLanguageInSubdir = true
 title = "Cookintrix"
 enableEmoji = true
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        respectDoNoTrack = true
+        useSessionStorage = true
+    [privacy.youtube]
+        privacyEnhanced = true
+    [privacy.vimeo]
+        enableDMT = true
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -40,28 +51,23 @@ enableEmoji = true
     ordered = false
     startLevel = 2
 
-[privacy]
-    [privacy.googleAnalytics]
-        anonymizeIP = true
-        respectDoNoTrack = true
-        useSessionStorage = true
-    [privacy.youtube]
-        privacyEnhanced = true
-    [privacy.vimeo]
-        enableDMT = true
-
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
 [languages]
-  [languages.en]
-    languagedirection = "en"
-    weight = 1
   [languages.it]
+    languageName = "Italian"
     languagedirection = "it"
-    weight = 2
+    weight = 1
     [languages.it.params]
       headerTitle = "Blog di Cookintrix"
+      motto = "L'ingrediente più importante è il cuore"
+  [languages.en]
+    languageName = "English"
+    languagedirection = "en"
+    weight = 2
+    [languages.en.params]
+      motto = "Most fundamental ingredient is the heart"
 
 [params]
   background = "#f7f7f7"
@@ -80,7 +86,6 @@ enableEmoji = true
   # description = ""
   avatar = "/img/avatar.png"
   # headerTitle = ""
-  motto = "L'ingrediente più importante è il cuore"
   # categoriesLimitInHeader = 6 # deprecated
   # headerBottomText = "" # deprecated
 
