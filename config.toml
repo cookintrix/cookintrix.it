@@ -1,7 +1,7 @@
 baseURL = "https://www.cookintrix.it"
 languageCode = "it-it"
 defaultContentLanguage = "it"
-defaultContentLanguageInSubdir = true
+defaultContentLanguageInSubdir = false
 title = "Cookintrix"
 enableEmoji = true
 
