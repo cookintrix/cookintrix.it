@@ -1,3 +1,129 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://www.cookintrix.it"
+languageCode = "it"
+defaultContentLanguage = "it"
+title = "Cookintrix"
+enableEmoji = true
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      definitionList = true
+      footnote = true
+      linkify = true
+      strikethrough = true
+      table = true
+      taskList = true
+      typographer = true
+    [markup.goldmark.parser]
+      attribute = true
+      autoHeadingID = true
+      autoHeadingIDType = "github"
+    [markup.goldmark.renderer]
+      hardWraps = false
+      unsafe = true
+      xhtml = false
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineAnchors = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    style = "gruvbox"
+    tabWidth = 4
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        respectDoNoTrack = true
+        useSessionStorage = true
+    [privacy.youtube]
+        privacyEnhanced = true
+    [privacy.vimeo]
+        enableDMT = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[languages]
+  [languages.en]
+    languagedirection = "en"
+    weight = 1
+  [languages.it]
+    languagedirection = "it"
+    weight = 2
+    [languages.it.params]
+      headerTitle = "Blog di Cookintrix"
+
+[params]
+  background = "#f7f7f7"
+  backgroundImage = "/img/back1.jpg"
+  linkColor = "seagreen"
+
+  # dark mode
+  defaultDark = true
+  backgroundDark = "#282828"
+  backgroundImageDark = "/img/back1.jpg"
+  darkLinkColor = "darkseagreen"
+  # darkNav = true
+  dark404 = true
+
+  author = "Cookintrix"
+  # description = ""
+  avatar = "/img/avatar.png"
+  # headerTitle = ""
+  motto = "L'ingrediente più importante è il cuore"
+  # categoriesLimitInHeader = 6 # deprecated
+  # headerBottomText = "" # deprecated
+
+  footerBottomText = ""
+
+  rss = true
+
+  # utterancesRepo = ""
+
+  # valine = true
+  # LEANCLOUD_APP_ID = ""
+  # LEANCLOUD_APP_KEY = ""
+
+  email = "cookintrix"
+  # twitter = ""
+  # facebook = ""
+  instagram = "instragam.com"
+  # mastodon = ""
+  # linkedin = ""
+  # github = ""
+  # stackoverflow = ""
+  # codepen = ""
+
+  siteStartYear = 2021
+
+  favicon = "/img/avatar.png"
+
+  highlightjs = true
+  highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
+  highlightjsExtraLanguages = ["ocaml"]
+  highlightjsTheme = "gruvbox-light"
+  highlightjsThemeDark = "gruvbox-dark"
+
+  # search
+  enableSearch = true
+
+  # search engine
+  enableRobotsTXT = true
+
+  # options
+  showSummaryCoverInPost = true
+  # hasTwitterEmbed = true
+
+  [params.advanced]
+    customCSS = ["css/custom.css"]
+    # customJS = []
