@@ -65,13 +65,13 @@ enableEmoji = true
 
 [params]
   background = "#f7f7f7"
-  backgroundImage = "/img/back1.jpg"
+  backgroundImage = "/img/back.jpg"
   linkColor = "seagreen"
 
   # dark mode
   defaultDark = true
   backgroundDark = "#282828"
-  backgroundImageDark = "/img/back1.jpg"
+  backgroundImageDark = "/img/back.jpg"
   darkLinkColor = "darkseagreen"
   # darkNav = true
   dark404 = true
