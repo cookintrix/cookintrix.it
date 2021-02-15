@@ -38,7 +38,7 @@ enableEmoji = true
   [markup.tableOfContents]
     endLevel = 3
     ordered = false
-    startLevel = 1
+    startLevel = 2
 
 [privacy]
     [privacy.googleAnalytics]
