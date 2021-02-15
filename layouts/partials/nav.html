@@ -9,7 +9,7 @@
     <i class="large link bullseye icon dream-flip-toggle" title="{{ i18n "flip" }}"></i>
   </div>
   <div class="item">
-    <i class="large link home icon" title="{{ i18n "home" }}" onclick="window.location.href = '{{ .Site.BaseURL }}'"></i>
+    <i class="large link home icon" title="{{ i18n "home" }}" onclick="window.location.href = '{{ .Site.Home.Permalink }}'"></i>
   </div>
   {{ if or .Site.Params.backgroundDark .Site.Params.backgroundImageDark }}
   <div class="item">
@@ -21,4 +21,16 @@
     <i class="large link search icon" onclick="toggleSearch()"></i>
   </div>
   {{ end }}
+  {{ if .IsTranslated }}
+    <div class="item">
+      {{ range .Translations }}
+        <a href="{{ .Permalink }}">
+          <b style="color: white">{{ .Language | upper }}</b>
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
 </nav>
+
+
+

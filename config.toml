@@ -1,5 +1,5 @@
 baseURL = "https://www.cookintrix.it"
-languageCode = "it"
+languageCode = "it-it"
 defaultContentLanguage = "it"
 defaultContentLanguageInSubdir = true
 title = "Cookintrix"
@@ -99,10 +99,10 @@ enableEmoji = true
   # LEANCLOUD_APP_ID = ""
   # LEANCLOUD_APP_KEY = ""
 
-  email = "cookintrix"
+  email = "giulia_rossi1996@libero.it"
   # twitter = ""
   # facebook = ""
-  instagram = "instragam.com"
+  instagram = "cookintrix"
   # mastodon = ""
   # linkedin = ""
   # github = ""
