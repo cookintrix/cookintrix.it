@@ -8,7 +8,7 @@ cover: /img/back2.jpg
 categories:
   - category1
 tags:
-  - tag1
+  - pasticceria
   - tag2
 draft: False
 summary: Questo appare solo nella preview
