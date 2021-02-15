@@ -12,7 +12,7 @@ categories:
 tags:
   - tag1
   - tag2
-draft: true
+draft: false
 ---
 
 Your content
