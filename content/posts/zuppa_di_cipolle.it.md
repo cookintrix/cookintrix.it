@@ -20,9 +20,8 @@ draft: false
 La zuppa di cipolle è un grande classico della cucina francese, nato come piatto povero.
 Realizzarla è facile, e bastano pochi ingredienti per creare un primo piatto caldo e saporito.
 Come da tradizione ho usato il brodo di carne, potete scegliere tra questo o quello vegetale, per rendere il piatto vegetariano.
-Gli ingredienti sono per quattro porzioni.
 
-## Ingredienti
+## Ingredienti (4 porzioni)
 
 * 1,5 l di brodo
 * 500 g di cipolle bianche
