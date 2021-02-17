@@ -15,6 +15,7 @@ categories:
 tags:
   - pasticceria
   - ricette vegane
+  - ricette vegetariane
 draft: false
 ---
 
@@ -48,6 +49,5 @@ Ho voluto prepararlo utilizzando come ingrediente principale la zucca, per aggiu
 Buon appetito! 😀
 
 
-    [<img src="/img/ciambellonezucca/ciambellonezucca2.jpeg" width="250"/>](/img/ciambellonezucca/ciambellonezucca2.jpeg)
     
-  
+   {{< figure src="/img/ciambellonezucca/ciambellonezucca1.jpg/" height=300 width=200  >}}
