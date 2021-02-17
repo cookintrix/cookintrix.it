@@ -10,7 +10,7 @@ summary: Classico della cucina francese, piatto semplice da preparare ma irresis
 categories:
   - zuppe
   - cipolle
-  - vegetariane
+  - ricette vegetariane
 tags:
   - primi
   - ricette vegetariane
@@ -38,7 +38,7 @@ Come da tradizione ho usato il brodo di carne, potete scegliere tra questo o que
 * Preparare il brodo
 * Mondare le cipolle e affettarle sottilmente
 * In una pentola mettere il burro e l'olio e scaldarli su fuoco dolce finchè quest'ultimo non si scioglie
-* Aggiungere le cipolle e cuocerle per 10 minuti facendo attenzione a non scurirle
+* Aggiungere le cipolle e cuocerle per 10 minuti facendo attenzione a non farle scurire
 * Aggiungere lo zucchero e mescolare con cura, unire la farina e mescolare finchè il fondo non si asciuga
 * Aggiungere il brodo e far cuocere a fuoco moderato per 30 minuti
 * Quando la zuppa è pronta aggiustare di sale e pepe e servire

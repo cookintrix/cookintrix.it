@@ -23,7 +23,7 @@ When one thinks of a dessert to cook for breakfast, the bundt cake immediately c
 I wanted to make it using pumpkin as the main ingredient, to add flavor and make the dessert even more delicate, in a vegan version.
 
 
-*INGREDIENTS*
+## Ingredients
 
 * 400 g of raw pumpkin
 * 100 g of seed oil
@@ -35,7 +35,7 @@ I wanted to make it using pumpkin as the main ingredient, to add flavor and make
 * a vial of vanilla flavoring
 * powder sugar to taste
 
-*METHOD*
+## Steps
 
 * Preheat the oven to 180°
 * Cut the pumpkin into cubes and blend it with the seed oil until getting a cream without lumps
@@ -46,3 +46,5 @@ I wanted to make it using pumpkin as the main ingredient, to add flavor and make
 * Bake in a convection oven at 180° or in a static oven at 190° for 30 minutes
 * When cooked, remove the pan from the oven and wait for the boundt cake to cool to remove it from the mold
 * Sprinkle with powder sugar and serve
+
+Enjoy your meal! 😀
