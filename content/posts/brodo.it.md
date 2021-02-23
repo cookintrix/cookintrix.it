@@ -16,7 +16,8 @@ draft: false
 ---
 
 Il brodo è una preparazione di base, che serve per insaporire innumerevoli piatti.
-Una volta preparato in casa per la prima volta non potrete più farne a meno!
+Da quando l'ho preparato in casa per la prima volta non ho potuto farne a meno!
+
 
 ## Ingredienti (4 porzioni)
 
@@ -37,7 +38,7 @@ Una volta preparato in casa per la prima volta non potrete più farne a meno!
 * Metterli in una capiente pentola e coprire con l'acqua fredda
 * Far cuocere per un'ora e nel mentre se occorre schiumare il brodo, ovvero eliminare le impurità che si presentano in superfice
 * Filtrare il brodo con un colino, separandolo dagli ingredienti
-* Salare solo ora il brodo per regolarvi sulla sapidità
-* Il brodo è pronto per essere utilizzato nelle vostre preparazioni
+* Salare solo ora il brodo per regolarsi sulla sapidità
+* Il brodo è pronto per essere utilizzato nelle preparazioni
 
 Buon appetito! 😀

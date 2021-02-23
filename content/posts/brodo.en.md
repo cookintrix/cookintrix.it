@@ -16,7 +16,7 @@ draft: false
 ---
 
 Broth is a basic preparation, which is used to flavor countless dishes.
-Once prepared at home for the first time, you won't be able to do without it!
+Since I made it at home for the first time, I couldn't do without it!
 
 ## Ingredients (4 servings)
 
