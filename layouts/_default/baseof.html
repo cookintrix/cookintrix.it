@@ -53,7 +53,7 @@
     {{ partial "search.html" . }}
     {{ end }}
 
-    {{ partialCached "search" . }}
+    <!-- {{ partialCached "search" . }} -->
 
     {{ range .Site.Params.Advanced.customJS }}
     <script src="{{ . | relURL }}"></script>
