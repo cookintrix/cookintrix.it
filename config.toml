@@ -1,7 +1,7 @@
 baseURL = "https://www.cookintrix.it"
 languageCode = "it-it"
 defaultContentLanguage = "it"
-defaultContentLanguageInSubdir = false
+defaultContentLanguageInSubdir = true
 title = "Cookintrix"
 enableEmoji = true
 
@@ -128,6 +128,7 @@ enableEmoji = true
   # options
   showSummaryCoverInPost = true
   # hasTwitterEmbed = true
+  # reversePostAndAside = true
 
   [params.advanced]
     customCSS = ["css/custom.css"]

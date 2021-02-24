@@ -50,7 +50,8 @@
     {{ block "js" . }} {{ end }}
 
     {{ if .Site.Params.enableSearch }}
-    {{ partial "search.html" . }}
+    {{ partialCached "search" . }}
+    <!-- {{ partial "search.html" . }} -->
     {{ end }}
 
     {{ range .Site.Params.Advanced.customJS }}
