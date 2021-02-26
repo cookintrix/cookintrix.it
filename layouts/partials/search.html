@@ -1,11 +1,21 @@
 <!-- layouts/partials/search.html -->
-<form id="search-form" class="noscript" method="GET" action="https://duckduckgo.com/" data-language-prefix="{{ site.LanguagePrefix }}">
-	<div class="search-bar">
-		<input id="search-input" class="search--display" name="q" tabindex="0" autocomplete="off" {{ with site.BaseURL }}value=" site:{{ . }}"{{ end }} placeholder="{{ i18n "search" }}">
-		<input id="search-submit" class="icon" type="submit" value="⌕">
-	</div>
-	<ul id="search-results" class="search--display"></ul>
-</form>
+
+<!-- <form id="search-form" class="noscript" method="GET" action="https://duckduckgo.com/" data-language-prefix="{{ site.LanguagePrefix }}"> -->
+<!-- 	<div class="search-bar"> -->
+<!-- 		<input id="search-input" class="search--display" name="q" tabindex="0" autocomplete="off" {{ with site.BaseURL }}value=" site:{{ . }}"{{ end }} placeholder="{{ i18n "search" }}"> -->
+<!-- 		<input id="search-submit" class="icon" type="submit" value="⌕"> -->
+<!-- 	</div> -->
+<!-- 	<ul id="search-results" class="search--display"></ul> -->
+<!-- </form> -->
+
+<!-- <nav class="ui secondary menu dream-menu"> -->
+<!-- 	<div class="item search-bar"> -->
+<!-- 		<i id="search-submit" class="large link search icon" onclick=""></i> -->
+<!-- 		<input id="search-input" class="search--display" name="q" tabindex="0" autocomplete="off" {{ with site.BaseURL }}value=" site:{{ . }}"{{ end }} placeholder="{{ i18n "search" }}"> -->
+<!-- 	</div> -->
+<!-- 	<ul id="search-results" class="search--display"></ul> -->
+<!-- </nav> -->
+
 <!-- <script src="{{ "/scripts/fuse.js" | relURL }}"></script> -->
 <script src="{{ "/scripts/fixedsearch/fixedsearch.js" | relURL }}"></script>
 

@@ -5,7 +5,7 @@ publishdate: {{ .Date }}
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cartella/nomeImmagine.jpg
+# cover: /img/cartella/nomeImmagine.jpg
 summary: Write post's preview
 categories:
   - category1

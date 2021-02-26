@@ -5,7 +5,7 @@ publishdate: 2021-02-17T20:20:10+01:00
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cartella/nomeImmagine.jpg
+# cover: /img/cartella/nomeImmagine.jpg
 summary: Piatto unico versatile da preparare
 categories:
   - zucchine

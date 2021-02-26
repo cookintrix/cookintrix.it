@@ -5,7 +5,7 @@ publishdate: 2021-02-15T21:13:37+01:00
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cartella/nomeImmagine.jpg
+# cover: /img/cartella/nomeImmagine.jpg
 summary: Light but tasty vegan bundt cake, starring the autumn vegetable par excellence
 categories:
   - bundt cake

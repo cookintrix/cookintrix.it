@@ -5,13 +5,12 @@ publishdate: 2021-02-17T19:54:48+01:00
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cartella/nomeImmagine.jpg
+# cover: /img/cartella/nomeImmagine.jpg
 summary: Essential basic recipe for multiple preparations
 categories:
   - broth
   - first courses
 tags:
-  - broth
 draft: false
 ---
 

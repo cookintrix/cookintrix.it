@@ -7,7 +7,6 @@ based on https://gist.github.com/cmod/5410eae147e4318164258742dd053993
 fixedsearch = function(){
 	var search_form = document.getElementById('search-form'); // search form
 	var search_input = document.getElementById('search-input'); // input box for search
-	var search_submit = document.getElementById('search-submit'); // form submit button
 	var search_results = document.getElementById('search-results'); // targets the <ul>
 	var fuse; // holds our search engine
 	var search__focus = false; // check to true to make visible by default
@@ -16,21 +15,8 @@ fixedsearch = function(){
 	var first = search_results.firstChild; // first child of search list
 	var last = search_results.lastChild; // last child of search list
 
-
 	search_form.classList.remove('noscript'); // JavaScript is active
-	search_form.setAttribute('data-focus', search__focus);
-
-	/*--------------------------------------------------------------
-	The main keyboard event listener running the show
-	--------------------------------------------------------------*/
-	document.addEventListener('keydown', function(e) {
-		// console.log(event); // DEBUG
-		// Ctrl + / to show or hide Search
-		// if (event.metaKey && event.which === 191) {
-		if (event.ctrlKey && event.which === 191) {
-			search_toggle_focus(e); // toggle visibility of search box
-		}
-	});
+	// search_form.setAttribute('data-focus', search__focus);
 
 	/*--------------------------------------------------------------
 	The main keyboard event listener running the show
@@ -38,12 +24,12 @@ fixedsearch = function(){
 	search_form.addEventListener('keydown', function(e) {
 		// Allow ESC (27) to close search box
 		if (e.keyCode == 27) {
-				search__focus = true; // make sure toggle removes focus
-				search_toggle_focus(e);
+			search__focus = true; // make sure toggle removes focus
+			search_toggle_focus(e);
 		}
 
 		// DOWN (40) arrow
-		if (e.keyCode == 40) {
+		else if (e.keyCode == 40) {
 			if (results_available) {
 				e.preventDefault(); // stop window from scrolling
 				if ( document.activeElement == search_input) { first.focus(); } // if the currently focused element is the main input --> focus the first <li>
@@ -54,7 +40,7 @@ fixedsearch = function(){
 		}
 
 		// UP (38) arrow
-		if (e.keyCode == 38) {
+		else if (e.keyCode == 38) {
 			if (results_available) {
 				e.preventDefault(); // stop window from scrolling
 				if ( document.activeElement == search_input) { search_input.focus(); } // If we're in the input box, do nothing
@@ -64,7 +50,7 @@ fixedsearch = function(){
 		}
 
 		// Use Enter (13) to move to the first result
-		if (e.keyCode == 13) {
+		else if (e.keyCode == 13) {
 			if (results_available && document.activeElement == search_input) {
 				e.preventDefault(); // stop form from being submitted
 				first.focus();
@@ -72,7 +58,7 @@ fixedsearch = function(){
 		}
 
 		// Use Backspace (8) to switch back to the search input
-		if (e.keyCode == 8) {
+		else if (e.keyCode == 8) {
 			if (document.activeElement != search_input) {
 				e.preventDefault(); // stop browser from going back in history
 				search_input.focus();
@@ -83,24 +69,26 @@ fixedsearch = function(){
 	/*--------------------------------------------------------------
 	Load our json data and builds fuse.js search index
 	--------------------------------------------------------------*/
-	search_form.addEventListener('focusin', function(e) {
+	search_input.addEventListener('focusin', function(e) {
 		search_init(); // try to load the search index
+		search_form.setAttribute('data-focus', true);
 	});
 
 	/*--------------------------------------------------------------
 	Make submit button toggle focus
 	--------------------------------------------------------------*/
-	search_form.addEventListener('submit', function(e) {
-		search_toggle_focus(e);
-		e.preventDefault();
-		return false;
-	});
+	// search_input.addEventListener('submit', function(e) {
+	// 	search_toggle_focus(e);
+	// 	e.preventDefault();
+	// 	return false;
+	// });
 
 	/*--------------------------------------------------------------
 	Remove focus on blur
 	--------------------------------------------------------------*/
-	search_form.addEventListener('focusout', function(e) {
+	search_input.addEventListener('focusout', function(e) {
 		if (e.relatedTarget === null) {
+			search__focus = true;
 			search_toggle_focus(e);
 		}
 		else if (e.relatedTarget.type === 'submit') {
@@ -109,21 +97,22 @@ fixedsearch = function(){
 	});
 
 	/*--------------------------------------------------------------
-	Toggle focus UI of form
+	Toggle focus UI of input
 	--------------------------------------------------------------*/
 	function search_toggle_focus(e) {
 		// console.log(e); // DEBUG
 		// order of operations is very important to keep focus where it should stay
 		if (!search__focus) {
-			search_submit.value = '⨯';
+			// search_submit.value = '⨯';
 			search_form.setAttribute('data-focus', true);
 			search_input.focus(); // move focus to search box
 			search__focus = true;
 		}
 		else {
-			search_submit.value = '⌕';
+			// search_submit.value = '⌕';
 			search_form.setAttribute('data-focus', false);
 			document.activeElement.blur(); // remove focus from search box
+			$('#search-input').css('display', 'none')
 			search__focus = false;
 		}
 	}
@@ -137,7 +126,7 @@ fixedsearch = function(){
 			if (httpRequest.readyState === 4) {
 				if (httpRequest.status === 200) {
 					var data = JSON.parse(httpRequest.responseText);
-						if (callback) callback(data);
+					if (callback) callback(data);
 				}
 			}
 		};
@@ -208,6 +197,7 @@ fixedsearch = function(){
 	in the search box
 	--------------------------------------------------------------*/
 	function search_exec(term) {
+		// search_results.style.display = 'block';
 		let results = fuse.search(term); // the actual query being run using fuse.js
 		let search_items = ''; // our results bucket
 
@@ -215,14 +205,14 @@ fixedsearch = function(){
 			results_available = false;
 			search_items = '';
 		} else { // build our html
-			for (let item in results.slice(0,5)) { // only show first 5 results
+			for (let item in results.slice(0, 10)) { // only show first 5 results
 				search_items = search_items + '<li><a href="' + results[item].item.permalink + '" tabindex="0">' +
-					'<span class="title">' + results[item].item.title + '</span>' +
-					'<span class="date">' + results[item].item.date + '</span>' +
-					'<span class="summary">' + results[item].item.summary + '</span>' +
-					'<span class="section">'+ results[item].item.section +'</span>' +
-					'<span class="categories">'+ results[item].item.categories.join(', ') +'</span>' +
-					'<span class="tags">'+ results[item].item.tags.join(', ') +'</span>' +
+					'<span style="color: darkorange" class="title">' + results[item].item.title + '</span>' +
+					'<span style="color: darkseagreen" class="date">' + results[item].item.date + '</span>' +
+					'<span style="color: #EFEFEF" class="summary">' + results[item].item.summary + '</span>' +
+					// '<span class="section">'+ results[item].item.section +'</span>' +
+					// '<span class="categories">'+ results[item].item.categories.join(', ') +'</span>' +
+					// '<span class="tags">'+ results[item].item.tags.join(', ') +'</span>' +
 				'</a></li>';
 			}
 			results_available = true;

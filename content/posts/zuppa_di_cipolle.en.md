@@ -5,7 +5,7 @@ publishdate: 2021-02-17T09:56:46+01:00
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cartella/nomeImmagine.jpg
+# cover: /img/cartella/nomeImmagine.jpg
 summary: Classic of French cuisine, an easy but irresistible dish to prepare
 categories:
   - soups

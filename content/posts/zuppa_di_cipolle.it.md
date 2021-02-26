@@ -5,7 +5,7 @@ publishdate: 2021-02-15T13:16:33+01:00
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-cover: /img/cartella/nomeImmagine.jpg
+# cover: /img/cartella/nomeImmagine.jpg
 summary: Classico della cucina francese, piatto semplice da preparare ma irresistibile
 categories:
   - zuppe

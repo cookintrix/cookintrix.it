@@ -13,6 +13,8 @@
     {{ range .Site.Params.Advanced.customCSS }}
     <link rel="stylesheet" href="{{ . | relURL }}" />
     {{ end }}
+    <!-- <script src="{{ "/scripts/fixedsearch/fixedsearch.js" | relURL }}"></script> -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </head>
 
   <body class="default">
@@ -49,10 +51,10 @@
     {{ partial "footer.html" . }}
     {{ block "js" . }} {{ end }}
 
-    {{ if .Site.Params.enableSearch }}
-    {{ partialCached "search" . }}
-    <!-- {{ partial "search.html" . }} -->
-    {{ end }}
+    <!-- {{ if .Site.Params.enableSearch }} -->
+    <!--   {{ partialCached "search.html" . }} -->
+    <!--   <!-1- {{ partial "search.html" . }} -1-> -->
+    <!-- {{ end }} -->
 
     {{ range .Site.Params.Advanced.customJS }}
     <script src="{{ . | relURL }}"></script>
