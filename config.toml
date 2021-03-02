@@ -1,9 +1,10 @@
-baseURL = "https://www.cookintrix.it"
+baseURL = ""
 languageCode = "it-it"
 defaultContentLanguage = "it"
 defaultContentLanguageInSubdir = true
 title = "Cookintrix"
 enableEmoji = true
+# paginate = 12
 
 [privacy]
     [privacy.googleAnalytics]
