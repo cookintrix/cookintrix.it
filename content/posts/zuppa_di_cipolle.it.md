@@ -5,7 +5,7 @@ publishdate: 2021-02-15T13:16:33+01:00
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-# cover: /img/cartella/nomeImmagine.jpg
+cover: /img/zuppadicipolle/zuppadicipolle1.jpg
 summary: Classico della cucina francese, piatto semplice da preparare ma irresistibile
 categories:
   - zuppe
@@ -44,3 +44,7 @@ Come da tradizione ho usato il brodo di carne, potete scegliere tra questo o que
 * Quando la zuppa è pronta aggiustare di sale e pepe e servire
 
 Buon appetito! 😀
+
+   {{< figure src="/img/zuppadicipolle/zuppadicipolle1.jpg/" height=300  >}}
+   {{< figure src="/img/zuppadicipolle/zuppadicipolle2.jpg/" height=300  >}}
+   {{< figure src="/img/zuppadicipolle/zuppadicipolle3.jpeg/" height=300  >}}

@@ -5,7 +5,7 @@ publishdate: 2021-02-17T20:20:24+01:00
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-# cover: /img/cartella/nomeImmagine.jpg
+cover: /img/pancakesalati/pancakesalati1.jpg
 summary: Main dish vesatile to prepare
 categories:
   - zucchini
@@ -41,3 +41,7 @@ These savory pancakes are easy to make, can be offered as an appetizer and are e
 * To serve
 
 Enjoy your meal! 😀
+
+{{< figure src="/img/pancakesalati/pancakesalati1.jpg/" height=300  >}}
+{{< figure src="/img/pancakesalati/pancakesalati2.jpg/" height=300  >}}
+{{< figure src="/img/pancakesalati/pancakesalati3.jpg/" height=300  >}}

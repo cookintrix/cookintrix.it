@@ -5,7 +5,7 @@ publishdate: 2021-02-17T19:54:38+01:00
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-# cover: /img/cartella/nomeImmagine.jpg
+cover: /img/zuppadicipolle/zuppadicipolle3.jpeg
 summary: Ricetta base indispensabile per molteplici preparazioni
 categories:
   - brodo
@@ -42,3 +42,5 @@ Da quando l'ho preparato in casa per la prima volta non ho potuto farne a meno!
 * Il brodo è pronto per essere utilizzato nelle preparazioni
 
 Buon appetito! 😀
+
+   {{< figure src="/img/zuppadicipolle/zuppadicipolle3.jpeg/" height=300  >}}

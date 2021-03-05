@@ -5,7 +5,7 @@ publishdate: 2021-02-17T09:56:46+01:00
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-# cover: /img/cartella/nomeImmagine.jpg
+cover: /img/zuppadicipolle/zuppadicipolle1.jpg
 summary: Classic of French cuisine, an easy but irresistible dish to prepare
 categories:
   - soups
@@ -43,3 +43,7 @@ According to tradition I used the meat broth, you can choose between this or the
 * When the soup is ready, season with salt and pepper and serve
 
 Enjoy your meal! 😀
+
+   {{< figure src="/img/zuppadicipolle/zuppadicipolle1.jpg/" height=300  >}}
+   {{< figure src="/img/zuppadicipolle/zuppadicipolle2.jpg/" height=300  >}}
+   {{< figure src="/img/zuppadicipolle/zuppadicipolle3.jpeg/" height=300  >}}

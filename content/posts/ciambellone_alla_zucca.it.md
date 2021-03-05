@@ -48,6 +48,6 @@ Ho voluto prepararlo utilizzando come ingrediente principale la zucca, per aggiu
 
 Buon appetito! 😀
 
-
-    
-   {{< figure src="/img/ciambellonezucca/ciambellonezucca1.jpg/" height=300 width=200  >}}
+   {{< figure src="/img/ciambellonezucca/ciambellonezucca1.jpg/" height=300  >}}
+   {{< figure src="/img/ciambellonezucca/ciambellonezucca2.jpeg/" height=300  >}}
+   {{< figure src="/img/ciambellonezucca/ciambellonezucca3.jpeg/" height=300  >}}

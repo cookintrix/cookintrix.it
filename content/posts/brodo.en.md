@@ -5,7 +5,7 @@ publishdate: 2021-02-17T19:54:48+01:00
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-# cover: /img/cartella/nomeImmagine.jpg
+cover: /img/zuppadicipolle/zuppadicipolle3.jpeg
 summary: Essential basic recipe for multiple preparations
 categories:
   - broth
@@ -40,3 +40,5 @@ Since I made it at home for the first time, I couldn't do without it!
 * The broth is ready to be used in your preparations
 
 Enjoy your meal! 😀
+
+   {{< figure src="/img/zuppadicipolle/zuppadicipolle3.jpeg/" height=300  >}}

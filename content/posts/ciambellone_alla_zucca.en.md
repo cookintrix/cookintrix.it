@@ -5,7 +5,7 @@ publishdate: 2021-02-15T21:13:37+01:00
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
-# cover: /img/cartella/nomeImmagine.jpg
+cover: /img/ciambellonezucca/ciambellonezucca3.jpeg
 summary: Light but tasty vegan bundt cake, starring the autumn vegetable par excellence
 categories:
   - bundt cake
@@ -48,3 +48,7 @@ I wanted to make it using pumpkin as the main ingredient, to add flavor and make
 * Sprinkle with powder sugar and serve
 
 Enjoy your meal! 😀
+
+   {{< figure src="/img/ciambellonezucca/ciambellonezucca1.jpg/" height=300  >}}
+   {{< figure src="/img/ciambellonezucca/ciambellonezucca2.jpeg/" height=300  >}}
+   {{< figure src="/img/ciambellonezucca/ciambellonezucca3.jpeg/" height=300  >}}
