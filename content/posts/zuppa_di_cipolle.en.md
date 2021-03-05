@@ -34,7 +34,7 @@ According to tradition I used the meat broth, you can choose between this or the
 
 ## Steps
 
-* Prepare the broth
+* Prepare the [broth]({{< ref "/posts/brodo.en.md" >}})
 * Clean the onions and slice them thinly
 * Put the butter and the oil in a saucepan and heat them over low heat until the latter melts
 * Add the onions and cook for 10 minutes being careful not to brown them

@@ -35,7 +35,7 @@ Come da tradizione ho usato il brodo di carne, potete scegliere tra questo o que
 
 ## Procedimento
 
-* Preparare il brodo
+* Preparare il [brodo]({{< ref "/posts/brodo.it.md" >}})
 * Mondare le cipolle e affettarle sottilmente
 * In una pentola mettere il burro e l'olio e scaldarli su fuoco dolce finchè quest'ultimo non si scioglie
 * Aggiungere le cipolle e cuocerle per 10 minuti facendo attenzione a non farle scurire
