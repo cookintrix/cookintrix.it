@@ -6,7 +6,7 @@ author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
 cover: /img/pancakesalati/pancakesalati1.jpg
-summary: Main dish vesatile to prepare
+summary: Main dish easy to prepare
 categories:
   - zucchini
   - pancakes
