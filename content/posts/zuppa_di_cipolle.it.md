@@ -11,6 +11,7 @@ categories:
   - zuppe
   - cipolle
   - ricette vegetariane
+  - primi
 tags:
   - primi
   - ricette vegetariane
