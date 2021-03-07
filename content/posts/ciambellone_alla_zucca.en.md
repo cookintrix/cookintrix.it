@@ -1,5 +1,5 @@
 ---
-title: Pumpkin Bundt Cake
+title: Pumpkin bundt cake
 date: 2021-02-15T21:13:37+01:00
 publishdate: 2021-02-15T21:13:37+01:00
 author: Giulia Rossi

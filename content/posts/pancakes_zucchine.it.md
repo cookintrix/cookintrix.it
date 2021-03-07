@@ -1,5 +1,5 @@
 ---
-title: Pancake Salati Con Zucchine
+title: Pancake salati con zucchine
 date: 2021-02-17T20:20:10+01:00
 publishdate: 2021-02-17T20:20:10+01:00
 author: Giulia Rossi

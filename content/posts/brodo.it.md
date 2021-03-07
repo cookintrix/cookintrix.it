@@ -12,6 +12,7 @@ categories:
   - primi
 tags:
   - primi
+  - preparazioni di base
 draft: false
 ---
 

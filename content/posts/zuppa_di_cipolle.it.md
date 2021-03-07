@@ -1,5 +1,5 @@
 ---
-title: Zuppa Di Cipolle
+title: Zuppa di cipolle
 date: 2021-02-15T13:16:33+01:00
 publishdate: 2021-02-15T13:16:33+01:00
 author: Giulia Rossi

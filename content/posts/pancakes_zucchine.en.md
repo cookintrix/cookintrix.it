@@ -1,5 +1,5 @@
 ---
-title: Savory Pancakes With Zucchini
+title: Savory pancakes with zucchini
 date: 2021-02-17T20:20:24+01:00
 publishdate: 2021-02-17T20:20:24+01:00
 author: Giulia Rossi

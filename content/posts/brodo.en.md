@@ -11,6 +11,8 @@ categories:
   - broth
   - first courses
 tags:
+- first courses
+- basic preparations
 draft: false
 ---
 
