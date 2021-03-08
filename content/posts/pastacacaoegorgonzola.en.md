@@ -15,7 +15,7 @@ categories:
 tags:
   - first courses
   - vegetarian recipes
-draft: true
+draft: false
 ---
 
 This first course with its strong and particular flavors is excellent to propose for a special dinner.

@@ -16,7 +16,7 @@ categories:
 tags:
   - primi
   - ricette vegetariane
-draft: true
+draft: false
 ---
 
 Questo primo piatto con i suoi sapori decisi e particolari è ottimo da proporre per una cena speciale.
