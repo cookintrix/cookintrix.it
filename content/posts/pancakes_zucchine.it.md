@@ -17,7 +17,7 @@ tags:
 draft: false
 ---
 
-Questi pancakes salati sono facili da realizzare, si possono proporre come antipasto e sono comodi da portare fuori casa.
+Questi pancake salati sono facili da realizzare, si possono proporre come antipasto e sono comodi da portare fuori casa.
 
 ## Ingredienti
 
@@ -26,7 +26,7 @@ Questi pancakes salati sono facili da realizzare, si possono proporre come antip
 * 100 g di farina
 * 200 g di zucchine
 * 1 cucchiaino di sale
-* 1 cucchiaino di lievito per di lievito per torte salate
+* 1 cucchiaino di lievito per torte salate
 
 ## Procedimento
 
