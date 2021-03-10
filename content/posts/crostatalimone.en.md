@@ -23,18 +23,18 @@ An easy recipe that with the addition of lemon in the custard will bring a citru
 ## Ingredients
 
 1. For the cream
-* 500 ml of milk
-* 2 eggs
-* 100 g of sugar
-* 30 g of corn starch
-* 1 lemon
+    * 500 ml of milk
+    * 2 eggs
+    * 100 g of sugar
+    * 30 g of corn starch
+    * 1 lemon
 2. For the shortcrust pastry
-* 300 g of flour
-* 2 eggs
-* 100 g of sugar
-* 80 g of sunflower oil
+    * 300 g of flour
+    * 2 eggs
+    * 100 g of sugar
+    * 80 g of sunflower oil
 3. To decorate
-* strawberries to taste
+    * strawberries to taste
 
 ## Steps
 

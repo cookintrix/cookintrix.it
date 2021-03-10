@@ -23,18 +23,18 @@ Una ricetta facile che con l'aggiunta del limone nella crema pasticcera porterà
 ## Ingredienti
 
 1. Per la crema
-* 500 ml di latte
-* 2 uova
-* 100 g di zucchero
-* 30 g di amido di mais
-* 1 limone
+    * 500 ml di latte
+    * 2 uova
+    * 100 g di zucchero
+    * 30 g di amido di mais
+    * 1 limone
 2. Per la pasta frolla
-* 300 g di farina
-* 2 uova
-* 100 g di zucchero
-* 80 g di olio di semi di girasole
+    * 300 g di farina
+    * 2 uova
+    * 100 g di zucchero
+    * 80 g di olio di semi di girasole
 3. Per decorare
-* fragole q.b.
+    * fragole q.b.
 
 ## Procedimento
 
