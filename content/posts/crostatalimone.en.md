@@ -38,16 +38,17 @@ An easy recipe that with the addition of lemon in the custard will bring a citru
 
 ## Steps
 
-* Preheat the oven to 170 ° C if ventilated, 180 ° C if static
+* Preheat the oven to 170° C if ventilated, 180° C if static
 * Start by dealing with the custard:
-* In a saucepan, heat the milk and the lemon peel
-* In a bowl combine the sugar, starch, eggs and lemon juice
-* Add everything to the milk, after removing the lemon peel, and let the cream thicken using a whip
+    * In a saucepan, heat the milk and the lemon peel
+    * In a bowl combine the sugar, starch, eggs and lemon juice
+    * Remove the lemon peel from the milk
+    * Add everything to the milk and thicken the cream using a whisk
 * Now switch to the shortcrust pastry:
-* In a bowl combine the eggs, sugar, oil and flour
-* Stir with your hands until you create a dough that does not stick to your fingers
-* Divide the dough in two, roll out one of the two parts with a rolling pin to create the base of the tart
-* Place the pastry in a greased and floured pan and trim the edges with a knife
+    * In a bowl combine the eggs, sugar, oil and flour
+    * Stir with your hands until you create a dough that does not stick to your fingers
+    * Divide the dough in two, roll out one of the two parts with a rolling pin to create the base of the tart
+    * Place the pastry in a greased and floured pan and trim the edges with a knife
 * Pour the cream on the base and level
 * Roll out the second loaf and create some flowers with a mold
 * Place them on half of the tart

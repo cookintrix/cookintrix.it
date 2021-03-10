@@ -40,15 +40,16 @@ Una ricetta facile che con l'aggiunta del limone nella crema pasticcera porterà
 
 * Preriscaldare il forno a 170° C se ventilato, 180° C se statico
 * Cominciare occupandosi della crema pasticcera:
-* In un pentolino far scaldare il latte e la buccia del limone
-* In una ciotola unire lo zucchero, l'amido, le uova e il succo del limone
-* Unire il tutto al latte, dopo aver tolto la buccia del limone, e far addensare la crema utilizzando una frusta
+    * In un pentolino far scaldare il latte e la buccia del limone
+    * In una ciotola unire lo zucchero, l'amido, le uova e il succo di limone
+    * Rimuovere la buccia del limone dal latte
+    * Unire il tutto al latte e far addensare la crema utilizzando una frusta
 * Passare ora alla pasta frolla:
-* In una ciotola unire le uova, lo zucchero, l'olio e la farina
-* Mescolare con le mani finché non si crea un panetto che non si appiccichi alle dita
-* Dividere il panetto in due, stendere una delle due parti con il mattarello per creare la base della crostata
-* Sistemare la frolla in una tortiera unta e infarinata e con un coltello rifiliamo i bordi
-* Versare la crema sulla base e livelliamo
+    * In una ciotola unire le uova, lo zucchero, l'olio e la farina
+    * Mescolare con le mani finché non si crea un panetto che non si appiccichi alle dita
+    * Dividere il panetto in due, stendere una delle due parti con il mattarello per creare la base della crostata
+    * Sistemare la frolla in una tortiera unta e infarinata e con un coltello rifilare i bordi
+* Versare la crema sulla base e livellare
 * Stendere il secondo panetto e creare con una formina dei fiori
 * Posizionarli su metà della crostata
 * Infornare per 30 minuti
