@@ -50,7 +50,6 @@ These balls are easy to make, but mostly they are healthy and tasty.
 
 Enjoy your meal! 😀
 
-
  {{< figure src="/img/polpettececi/polpettececi1.jpg/" height=300  >}}
  {{< figure src="/img/polpettececi/polpettececi2.jpg/" height=300  >}}
  {{< figure src="/img/polpettececi/polpettececi3.jpg/" height=300  >}}
