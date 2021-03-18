@@ -1,7 +1,6 @@
 ---
 title: {{ replace .TranslationBaseName "_" " " | title }}
 date: {{ .Date }}
-publishdate: {{ .Date }}
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
