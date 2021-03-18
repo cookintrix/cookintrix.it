@@ -10,7 +10,7 @@ summary: Classico della cucina francese, piatto semplice da preparare ma irresis
 categories:
   - zuppe
   - cipolle
-  - ricette vegetariane
+  - vegetariano
   - primi
 tags:
   - primi
