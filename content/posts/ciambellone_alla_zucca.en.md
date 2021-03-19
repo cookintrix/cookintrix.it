@@ -37,7 +37,7 @@ I wanted to make it using pumpkin as the main ingredient, to add flavor and make
 
 ## Steps
 
-* Preheat the oven to 180°
+* Preheat the oven to 180° C if ventilated, 190° C if static
 * Cut the pumpkin into cubes and blend it with the seed oil until getting a cream without lumps
 * Put the water and sugar in a bowl; stir until the latter dissolves
 * Add the pumpkin cream, the sifted flour, the baking powder, the granulated almonds and the vanilla flavoring
