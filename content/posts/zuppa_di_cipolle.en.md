@@ -11,6 +11,7 @@ categories:
   - soups
   - onions
   - vegetarian recipes
+  - french cuisine
 tags:
   - first courses
   - vegetarian recipes

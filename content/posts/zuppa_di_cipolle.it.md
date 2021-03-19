@@ -12,6 +12,7 @@ categories:
   - cipolle
   - vegetariano
   - primi
+  - cucina francese
 tags:
   - primi
   - ricette vegetariane
