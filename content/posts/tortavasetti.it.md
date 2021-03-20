@@ -1,5 +1,5 @@
 ---
-title: Torta alla yogurt
+title: Torta allo yogurt
 date: 2021-03-19T18:46:18+01:00
 publishdate: 2021-03-19T18:46:18+01:00
 author: Giulia Rossi
