@@ -13,7 +13,7 @@ categories:
 tags:
   - Pasticceria
   - Ricette Vegetariane
-draft: true
+draft: false
 ---
 
 Questa torta è facile da preparare, è buona e leggera e non si perde tempo a pesare gli ingredienti per realizzarla.

@@ -13,7 +13,7 @@ categories:
 tags:
   - Pastry
   - Vegetarian Recipes
-draft: true
+draft: false
 ---
 
 This cake is easy to make, it's tasty and light, and there's no time wasted weighing the ingredients to make it.
