@@ -1,6 +1,6 @@
 ---
 title: Two-toned bundt cake
-date: 2021-03-28T11:47:01+02:00
+date: 2021-03-28
 author: Giulia Rossi
 # avatar: /img/author.jpg
 # authorlink: https://author.site
