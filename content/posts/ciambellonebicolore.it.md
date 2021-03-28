@@ -21,8 +21,8 @@ Questo ciambellone è leggero ma grazie all'aggiunta del cacao più gustoso.
 ## Ingredienti
 * 3 uova
 * 120 ml di acqua
-* 120 ml di olio di semi
 * 120 ml di latte
+* 120 ml di olio di semi
 * 180 g di zucchero
 * 350 g di farina
 * 50 g di cacao amaro
