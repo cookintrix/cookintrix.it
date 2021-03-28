@@ -11,7 +11,7 @@ categories:
   - Polpo
   - Ragù
 tags:
-  - Primi Piatti
+  - Primi
 draft: false
 ---
 
