@@ -21,8 +21,8 @@ This bundt cake is light but tastier thank to the addition of cocoa.
 ## Ingredients
 * 3 eggs
 * 120 ml of water
-* 120 ml of milk
 * 120 ml of seed oil
+* 120 ml of milk
 * 180 g of sugar
 * 350 g of flour
 * 50 g of bitter cocoa
