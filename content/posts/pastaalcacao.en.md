@@ -32,8 +32,8 @@ Just add cocoa to create tagliatelle with an original color and a bitter taste.
 ## Steps (4 servings)
 
 * Pour the flour and cocoa on a pastry board or work surface, mixing them
-* Create a cavity in the center of the mixture, add the eggs and salt
-* Start kneading the dough by adding water when it gets too hard
+* Create a cavity in the center of the mixture, add the eggs and the salt
+* Start working the dough by adding water when it gets too hard or lumpy
 * Continue until it becomes homogeneous and without lumps
 * Create a loaf, wrap it in cling film and let it rest for half an hour
 * Using a rolling pin or the special pasta machine, make thin sheets, about 1 mm thick

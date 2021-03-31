@@ -33,7 +33,7 @@ Basterà aggiungere del cacao per creare delle tagliatelle con un originale colo
 
 * Versare su una spianatoia o su un piano di lavoro la farina e il cacao, mischiandolole
 * Creare una cavità al centro del composto, aggiungerci le uova e il sale
-* Cominciare a lavorare l'impasto aggiungendo  l'acqua quando diventa troppo duro
+* Cominciare a lavorare l'impasto aggiungendo l'acqua quando questo diventa troppo duro o grumoso
 * Continuare finchè non diventa omogeneo e senza grumi
 * Creare un panetto, avvolgerlo nella pellicola trasparente e lasciarlo riposare per mezz'ora
 * Utilizzando un mattarello o l'apposita macchina per la pasta, ricavare delle sfoglie sottili, di circa 1 mm di spessore

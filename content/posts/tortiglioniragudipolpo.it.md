@@ -45,7 +45,7 @@ Impossibile non innamorarsene.
 * Tagliare il tutto grossolatamente e aggiungere in padella
 * Aggiungere il concetrato e la passata e mescolare per bene
 * Lasciar insaporire il ragù a fuoco basso per circa 45 minuti
-* Mettere in una pentola l'acqua e quando bolle buttare la pasta
+* Mettere in una pentola l'acqua e quando bolle salarla e buttare la pasta
 * Scolarla al dente e versarla nella padella
 * Mantecare con poca acqua di cottura solo se il ragù è molto denso
 * Servire decorando con del prezzemolo
