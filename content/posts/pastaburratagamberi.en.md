@@ -19,7 +19,7 @@ A refined but tasty first course, which despite its strong and particular flavor
 
 ## Ingredients (4 servings)
 
-* 800 of flour
+* 800 g of flour
 * 4 eggs
 * lukewarm water to taste
 * a pinch of fine salt

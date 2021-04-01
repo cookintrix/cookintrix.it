@@ -19,7 +19,7 @@ Un primo piatto ricercato ma gustoso, che nonostante i suoi sapori forti e parti
 
 ## Ingredienti (4 porzioni)
 
-* 800 di farina
+* 800 g di farina
 * 4 uova
 * acqua tiepida q.b.
 * un pizzico di sale fino
