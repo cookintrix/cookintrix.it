@@ -86,6 +86,7 @@ paginate = 11
   author = "Cookintrix"
   # description = ""
   avatar = "/img/avatar.png"
+  # maxTags = 5
   # headerTitle = ""
   # categoriesLimitInHeader = 6 # deprecated
   # headerBottomText = "" # deprecated
