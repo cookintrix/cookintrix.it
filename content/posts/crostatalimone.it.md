@@ -33,6 +33,7 @@ Una ricetta facile che con l'aggiunta del limone nella crema pasticcera porterà
     * 2 uova
     * 100 g di zucchero
     * 80 g di olio di semi di girasole
+    * 1/2 bustina di lievito (8 g)
 3. Per decorare
     * fragole q.b.
 
@@ -45,7 +46,7 @@ Una ricetta facile che con l'aggiunta del limone nella crema pasticcera porterà
     * Rimuovere la buccia del limone dal latte
     * Unire il tutto al latte e far addensare la crema utilizzando una frusta
 * Passare ora alla pasta frolla:
-    * In una ciotola unire le uova, lo zucchero, l'olio e la farina
+    * In una ciotola unire le uova, lo zucchero, l'olio, la farina e il lievito
     * Mescolare con le mani finché non si crea un panetto che non si appiccichi alle dita
     * Dividere il panetto in due, stendere una delle due parti con il mattarello per creare la base della crostata
     * Sistemare la frolla in una tortiera unta e infarinata e con un coltello rifilare i bordi

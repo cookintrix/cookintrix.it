@@ -33,6 +33,7 @@ An easy recipe that with the addition of lemon in the custard will bring a citru
     * 2 eggs
     * 100 g of sugar
     * 80 g of sunflower oil
+    * * 1/2 packet of baking powder (8 g)
 3. To decorate
     * strawberries to taste
 
@@ -45,7 +46,7 @@ An easy recipe that with the addition of lemon in the custard will bring a citru
     * Remove the lemon peel from the milk
     * Add everything to the milk and thicken the cream using a whisk
 * Now switch to the shortcrust pastry:
-    * In a bowl combine the eggs, sugar, oil and flour
+    * In a bowl combine the eggs, the sugar, the oil, the flour and the baking powder
     * Stir with your hands until you create a dough that does not stick to your fingers
     * Divide the dough in two, roll out one of the two parts with a rolling pin to create the base of the tart
     * Place the pastry in a greased and floured pan and trim the edges with a knife
