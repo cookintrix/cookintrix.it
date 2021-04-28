@@ -13,6 +13,7 @@ tags:
   - Basic preparations
   - Main dishes
   - Vegetarian recipes
+  - Second courses
 draft: false
 ---
 
