@@ -9,7 +9,7 @@ summary: Brodo concentrato dal sapore intenso
 categories:
   - Gamberi
 tags:
-  - Preparazioni Di Base
+  - Preparazioni di base
 draft: false
 ---
 

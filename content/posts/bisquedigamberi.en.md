@@ -9,7 +9,7 @@ summary: Concentrated broth with an intense flavor
 categories:
   - Prawns
 tags:
-  - Basic Preparations
+  - Basic preparations
 draft: false
 ---
 
