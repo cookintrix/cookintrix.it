@@ -8,13 +8,14 @@ author: Giulia Rossi
 cover: /img/raviolicremanoci/raviolicremanoci2.jpg
 summary: Un primo piatto dal profumo di bosco
 categories:
-  - noci
-  - funghi
-  - ravioli
-  - pasta
+  - Noci
+  - Funghi
+  - Favioli
+  - Pasta
+  - Primi
 tags:
-  - primi
-  - ricette vegetariane
+  - Primi
+  - Ricette vegetariane
 draft: false
 ---
 

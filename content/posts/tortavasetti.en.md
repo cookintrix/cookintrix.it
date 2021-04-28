@@ -12,7 +12,7 @@ categories:
   - Chocolate
 tags:
   - Pastry
-  - Vegetarian Recipes
+  - Vegetarian recipes
 draft: false
 ---
 

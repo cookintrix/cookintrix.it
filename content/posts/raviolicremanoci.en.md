@@ -8,13 +8,13 @@ author: Giulia Rossi
 cover: /img/raviolicremanoci/raviolicremanoci2.jpg
 summary: A first course with the scent of the forest
 categories:
-  - walnuts
-  - mushrooms
-  - ravioli
-  - pasta
+  - Walnuts
+  - Mushrooms
+  - Ravioli
+  - Pasta
 tags:
-  - first courses
-  - vegetarian recipes
+  - First courses
+  - Vegetarian recipes
 draft: false
 ---
 

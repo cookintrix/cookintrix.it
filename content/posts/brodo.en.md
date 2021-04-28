@@ -8,11 +8,11 @@ author: Giulia Rossi
 cover: /img/zuppadicipolle/zuppadicipolle3.jpeg
 summary: Essential basic recipe for multiple preparations
 categories:
-  - broth
-  - first courses
+  - Broth
+  - First courses
 tags:
-- first courses
-- basic preparations
+- First courses
+- Basic preparations
 draft: false
 ---
 

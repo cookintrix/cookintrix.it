@@ -7,12 +7,12 @@ author: Giulia Rossi
 cover: /img/spaghettiburratagamberi/spaghettiburratagamberi9.jpg
 summary: A rich, tasty but delicate pasta
 categories:
-  - First Courses
+  - First courses
   - Prawns
   - Pistachio
   - Burrata
 tags:
-  - First Courses
+  - First courses
 draft: false
 ---
 A refined but tasty first course, which despite its strong and particular flavors is delicate, fresh and unforgettable.

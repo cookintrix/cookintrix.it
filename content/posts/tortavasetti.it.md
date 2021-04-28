@@ -9,10 +9,10 @@ cover: /img/tortavasetti/tortavasetti2.jpg
 summary: Per le dosi? Vi basterà un vasetto di yogurt
 categories:
   - Yogurt
-  - Cioccolata
+  - Cioccolato
 tags:
   - Pasticceria
-  - Ricette Vegetariane
+  - Ricette vegetariane
 draft: false
 ---
 

@@ -11,7 +11,7 @@ categories:
   - Octopus
   - Ragù
 tags:
-  - First Courses
+  - First courses
 draft: false
 ---
 

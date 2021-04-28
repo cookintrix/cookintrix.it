@@ -11,6 +11,7 @@ categories:
   - Gamberi
   - Pistacchio
   - Burrata
+  - Pasta
 tags:
   - Primi
 draft: false

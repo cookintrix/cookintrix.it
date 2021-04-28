@@ -12,7 +12,7 @@ categories:
   - Strawberries
   - Pistachio
 tags:
-  - Vegetarian Recipes
+  - Vegetarian recipes
   - Pastry
 draft: false
 ---

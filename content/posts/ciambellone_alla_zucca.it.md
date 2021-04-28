@@ -8,14 +8,14 @@ author: Giulia Rossi
 cover: /img/ciambellonezucca/ciambellonezucca3.jpeg
 summary: Ciambellone vegano leggero ma saporito, con protagonista l'ortaggio autunnale per eccellenza
 categories:
-  - ciambellone
-  - zucca
-  - mandorle
-  - vegano
+  - Ciambellone
+  - Zucca
+  - Mandorle
+  - Vegano
 tags:
-  - pasticceria
-  - ricette vegane
-  - ricette vegetariane
+  - Pasticceria
+  - Ricette vegane
+  - Ricette vegetariane
 draft: false
 ---
 

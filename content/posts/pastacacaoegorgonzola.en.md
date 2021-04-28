@@ -8,13 +8,13 @@ author: Giulia Rossi
 cover: /img/gorgonzola/gorgonzola1.jpg
 summary: Tasty first course
 categories:
-  - first courses
-  - vegetarian
-  - cocoa
-  - walnuts
+  - First courses
+  - Vegetarian
+  - Cocoa
+  - Walnuts
 tags:
-  - first courses
-  - vegetarian recipes
+  - First courses
+  - Vegetarian recipes
 draft: false
 ---
 

@@ -10,6 +10,7 @@ categories:
   - Primi
   - Polpo
   - Ragù
+  - Pasta
 tags:
   - Primi
 draft: false

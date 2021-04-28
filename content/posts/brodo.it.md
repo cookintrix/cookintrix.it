@@ -8,11 +8,11 @@ author: Giulia Rossi
 cover: /img/zuppadicipolle/zuppadicipolle3.jpeg
 summary: Ricetta base indispensabile per molteplici preparazioni
 categories:
-  - brodo
-  - primi
+  - Brodo
+  - Primi
 tags:
-  - primi
-  - preparazioni di base
+  - Primi
+  - Preparazioni di base
 draft: false
 ---
 

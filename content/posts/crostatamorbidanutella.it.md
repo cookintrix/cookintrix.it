@@ -13,7 +13,7 @@ categories:
   - Pistacchio
 tags:
   - Pasticceria
-  - Ricette Vegetariane
+  - Ricette vegetariane
 draft: false
 ---
 

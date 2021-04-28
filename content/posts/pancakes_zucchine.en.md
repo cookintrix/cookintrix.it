@@ -8,12 +8,12 @@ author: Giulia Rossi
 cover: /img/pancakesalati/pancakesalati1.jpg
 summary: Main dish easy to prepare
 categories:
-  - zucchini
-  - pancakes
-  - vegetarian
+  - Zucchini
+  - Pancakes
+  - Vegetarian
 tags:
-  - main dishes
-  - vegetarian recipes
+  - Main dishes
+  - Vegetarian recipes
 draft: false
 ---
 

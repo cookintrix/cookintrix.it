@@ -8,13 +8,13 @@ author: Giulia Rossi
 cover: /img/zuppadicipolle/zuppadicipolle1.jpg
 summary: Classic of French cuisine, an easy but irresistible dish to prepare
 categories:
-  - soups
-  - onions
-  - vegetarian recipes
-  - french cuisine
+  - Soups
+  - Onions
+  - Vegetarian recipes
+  - French cuisine
 tags:
-  - first courses
-  - vegetarian recipes
+  - First courses
+  - Vegetarian recipes
 draft: false
 ---
 

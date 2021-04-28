@@ -8,13 +8,13 @@ author: Giulia Rossi
 cover: /img/crostatalimone/crostatalimone3.jpg
 summary: A tart with a cream with a citrus aftertaste
 categories:
-  - lemon
-  - strawberries
-  - custard
-  - tart
+  - Lemon
+  - Strawberries
+  - Custard
+  - Tart
 tags:
-  - pastry
-  - vegetarian recipes
+  - Pastry
+  - Vegetarian recipes
 draft: false
 ---
 

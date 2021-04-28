@@ -8,14 +8,14 @@ author: Giulia Rossi
 cover: /img/ciambellonezucca/ciambellonezucca3.jpeg
 summary: Light but tasty vegan bundt cake, starring the autumn vegetable par excellence
 categories:
-  - bundt cake
-  - pumpkin
-  - almonds
-  - vegan
+  - Bundt cake
+  - Pumpkin
+  - Almonds
+  - Vegan
 tags:
-  - pastry
-  - vegan recipes
-  - vegetarian recipes
+  - Pastry
+  - Vegan recipes
+  - Vegetarian recipes
 draft: false
 ---
 

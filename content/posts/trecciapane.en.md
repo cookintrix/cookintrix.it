@@ -13,9 +13,9 @@ categories:
   - Bread
   - Vegetarian
 tags:
-  - Basic Preparations
-  - Main Dishes
-  - Vegetarian Recipes
+  - Basic preparations
+  - Main dishes
+  - Vegetarian recipes
 draft: false
 ---
 

@@ -8,14 +8,15 @@ author: Giulia Rossi
 cover: /img/pastaalcacao/pastaalcacao1.jpg
 summary: Una pasta fatta in casa con l'aggiunta di un ingrediente particolare
 categories:
-  - cacao
-  - pasta
-  - primi
+  - Cacao
+  - Pasta
+  - Primi
+  - Vegetariano
 tags:
-  - piatti unici
-  - ricette vegetariane
-  - primi
-  - preparazioni di base
+  - Piatti unici
+  - Ricette vegetariane
+  - Primi
+  - Preparazioni di base
 draft: false
 ---
 

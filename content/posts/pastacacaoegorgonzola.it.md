@@ -8,14 +8,14 @@ author: Giulia Rossi
 cover: /img/gorgonzola/gorgonzola1.jpg
 summary: Primo piatto gustoso
 categories:
-  - primi
-  - vegetariano
-  - gorgonzola
-  - noci
-  - cacao
+  - Primi
+  - Vegetariano
+  - Gorgonzola
+  - Noci
+  - Cacao
 tags:
-  - primi
-  - ricette vegetariane
+  - Primi
+  - Ricette vegetariane
 draft: false
 ---
 

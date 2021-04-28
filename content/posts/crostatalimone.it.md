@@ -8,13 +8,13 @@ author: Giulia Rossi
 cover: /img/crostatalimone/crostatalimone3.jpg
 summary: Una crostata con una crema dal retrogusto agrumato
 categories:
-  - limone
-  - fragole
-  - crema pasticcera
-  - crostate
+  - Limone
+  - Fragole
+  - Crema pasticcera
+  - Crostate
 tags:
-  - pasticceria
-  - ricette vegetariane
+  - Pasticceria
+  - Ricette vegetariane
 draft: false
 ---
 

@@ -8,15 +8,15 @@ author: Giulia Rossi
 cover: /img/polpettececi/polpettececi2.jpg
 summary: Polpette vegane facili da preparare ma saporite
 categories:
-  - ceci
-  - fagiolini
-  - polpette
-  - vegetariano
-  - vegano
+  - Ceci
+  - Fagiolini
+  - Polpette
+  - Vegetariano
+  - Vegano
 tags:
-  - Piatti Unici
-  - Ricette Vegetariane
-  - Ricette Vegane
+  - Piatti unici
+  - Ricette vegetariane
+  - Ricette vegane
 draft: false
 ---
 

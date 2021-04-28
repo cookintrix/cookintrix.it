@@ -8,14 +8,14 @@ author: Giulia Rossi
 cover: /img/zuppadicipolle/zuppadicipolle1.jpg
 summary: Classico della cucina francese, piatto semplice da preparare ma irresistibile
 categories:
-  - zuppe
-  - cipolle
-  - vegetariano
-  - primi
-  - cucina francese
+  - Zuppe
+  - Cipolle
+  - Vegetariano
+  - Primi
+  - Cucina francese
 tags:
-  - primi
-  - ricette vegetariane
+  - Primi
+  - Ricette vegetariane
 draft: false
 ---
 

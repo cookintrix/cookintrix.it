@@ -7,12 +7,12 @@ author: Giulia Rossi
 cover: /img/ciambellonebicolore/ciambellonebicolore4.jpg
 summary: Simple bundt cake but with a double taste
 categories:
-  - Bundt Cake
+  - Bundt cake
   - Chocolate
   - Cocoa
 tags:
   - Pastry
-  - Vegetarian Recipes
+  - Vegetarian recipes
 draft: false
 ---
 

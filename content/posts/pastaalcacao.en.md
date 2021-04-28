@@ -8,14 +8,14 @@ author: Giulia Rossi
 cover: /img/pastaalcacao/pastaalcacao1.jpg
 summary: Homemade pasta with the addition of a particular ingredient
 categories:
-  - cocoa
-  - pasta
-  - first courses
+  - Cocoa
+  - Pasta
+  - First courses
 tags:
-  - first courses
-  - main dishes
-  - vegetarian recipes
-  - basic preparations
+  - First courses
+  - Main dishes
+  - Vegetarian recipes
+  - Basic preparations
 draft: false
 ---
 

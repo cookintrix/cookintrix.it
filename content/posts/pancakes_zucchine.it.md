@@ -8,12 +8,12 @@ author: Giulia Rossi
 cover: /img/pancakesalati/pancakesalati1.jpg
 summary: Piatto unico versatile da preparare
 categories:
-  - zucchine
-  - pancakes
-  - vegetariano
+  - Zucchine
+  - Pancakes
+  - Vegetariano
 tags:
-  - piatti unici
-  - ricette vegetariane
+  - Piatti unici
+  - Ricette vegetariane
 draft: false
 ---
 

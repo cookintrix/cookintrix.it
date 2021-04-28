@@ -13,9 +13,9 @@ categories:
   - Pane
   - Vegetariano
 tags:
-  - Piatti Unici
-  - Preparazioni Di Base
-  - Ricette Vegetariane
+  - Piatti unici
+  - Preparazioni di base
+  - Ricette vegetariane
 draft: false
 ---
 
