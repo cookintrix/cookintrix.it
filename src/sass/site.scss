@@ -115,10 +115,11 @@ body {
 }
 
 .dream-header {
+  @include VHCenter;
   display: flex;
   justify-content: center;
 
-  > .content {
+  .content {
     $width: 512px;
 
     width: $width;
