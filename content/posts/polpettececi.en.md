@@ -13,6 +13,8 @@ categories:
   - Balls
   - Vegan
   - Vegetarian
+  - Legumes
+  - Breadcrumbs
 tags:
   - Vegan Recipes
   - Vegetarian Recipes

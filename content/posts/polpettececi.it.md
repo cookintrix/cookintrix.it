@@ -13,6 +13,8 @@ categories:
   - Polpette
   - Vegetariano
   - Vegano
+  - Legumi
+  - Pangrattato
 tags:
   - Piatti unici
   - Ricette vegetariane
