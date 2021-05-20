@@ -16,7 +16,7 @@ categories:
 tags:
   - Ricette vegetariane
   - Ricette vegane
-  - Dolci
+  - Pasticceria
 draft: false
 ---
 
