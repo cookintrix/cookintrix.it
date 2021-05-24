@@ -19,6 +19,7 @@ tags:
   - Piatti unici
   - Ricette vegetariane
   - Ricette vegane
+  - Secondi
 draft: false
 ---
 
