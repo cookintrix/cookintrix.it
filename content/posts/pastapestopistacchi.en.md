@@ -24,7 +24,7 @@ The flavor of this first course is tasty, and its realization is easier than it 
 
 ## Ingredients (4 servings)
 
-* 400 g of spaghetti
+* 400 g of spaghettoni
 * 150 g of shelled pistachios
 * 30 g of basil
 * 20 g of grated pecorino
@@ -32,7 +32,7 @@ The flavor of this first course is tasty, and its realization is easier than it 
 * 4 tablespoons of oil
 * 150 g mortadella
 * chopped pistachios to taste
-* alt to taste
+* salt to taste
 * pepper to taste
 
 ## Steps
@@ -42,7 +42,7 @@ The flavor of this first course is tasty, and its realization is easier than it 
 * Blend until the mixture is homogeneous and creamy, if necessary add more cooking water
 * Taste the pesto obtained and season with salt and pepper
 * Cut the mortadella into cubes and sear it for a few minutes in a pan
-* Cook the spaghetti according to the indicated time
+* Cook the spaghettoni according to the indicated time
 * When cooked, pour them into the pan, adding the pesto and stirring carefully
 * If necessary, add a ladle of cooking water
 * Serve the dish garnished with mortadella and chopped pistachios
