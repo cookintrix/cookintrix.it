@@ -42,7 +42,6 @@ The flavor of this first course is tasty, and its realization is easier than it 
 * Blend until the mixture is homogeneous and creamy, if necessary add more cooking water
 * Taste the pesto obtained and season with salt and pepper
 * Cut the mortadella into cubes and sear it for a few minutes in a pan
-* Set the mortadella aside
 * Cook the spaghetti according to the indicated time
 * When cooked, pour them into the pan, adding the pesto and stirring carefully
 * If necessary, add a ladle of cooking water

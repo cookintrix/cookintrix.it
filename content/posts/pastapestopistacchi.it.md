@@ -42,7 +42,6 @@ Il sapore di questo primo è gustoso, e la sua realizzazione è più facile di q
 * Frullare fino ad ottenere un composto omogeneo e cremoso, se necessario aggiungere altra acqua di cottura
 * Assaggiare il pesto ottenuto ed aggiustare di sale e pepe
 * Tagliare la mortadella a dadini e scottarla per alcuni minuti in padella
-* Mettere da parte la mortadella
 * Cuocere gli spaghettoni secondo il tempo indicato
 * Terminata la cottura versarli nella padella, aggiugendo il pesto e mantecando con cura
 * Se necessario aggiungere un mestolo di acqua di cottura
