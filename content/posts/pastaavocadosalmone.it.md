@@ -22,7 +22,7 @@ Bastano due ingredienti principali per creare un primo particolare, dal gusto de
 ## Ingredienti (2 porzioni)
 
 * 100 g di tortiglioni
-* 2 avocadi
+* 2 avocado
 * sale q.b.
 * pepe q.b.
 * 2 cucchiai di succo di limone
@@ -33,7 +33,7 @@ Bastano due ingredienti principali per creare un primo particolare, dal gusto de
 
 * Mettere in una pentola l'acqua e quando bolle salarla
 * Tagliare a striscie sottili il salmone
-* Sbucciare gli avocadi, eliminare i semi e posizionare la polpa in un mixer
+* Sbucciare gli avocado, eliminare i semi e posizionare la polpa in un mixer
 * Aggiungere il succo del limone, sale e pepe a piacere e frullare fino ad ottenere un composto omogeneo, se necessario aggiungere un cucchiaio di acqua di cottura
 * Versare la crema in una padella per poter poi mantecare la pasta con facilità
 * Buttare la pasta e scolarla una volta terminata la sua cottura
