@@ -43,7 +43,7 @@ Il sapore di questo primo è gustoso, e la sua realizzazione è più facile di q
 * Assaggiare il pesto ottenuto ed aggiustare di sale e pepe
 * Tagliare la mortadella a dadini e scottarla per alcuni minuti in padella
 * Cuocere gli spaghettoni secondo il tempo indicato
-* Terminata la cottura versarli nella padella, aggiugendo il pesto e mantecando con cura
+* Terminata la cottura versarli in un recipiente, aggiungendo il pesto e mantecando con cura
 * Se necessario aggiungere un mestolo di acqua di cottura
 * Servire il piatto guarnendolo con la mortadella e la granella di pistacchi
 
